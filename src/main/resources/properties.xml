@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment></comment>
+    <entry key="pdfPathOld"></entry>
+    <entry key="pdfPathNew"></entry>
+    <entry key="excelPath"></entry>
+    <entry key="sheetNumber">1</entry>
+    <entry key="columnPointNumbers">0</entry>
+    <entry key="columnOtherInformation">4,5,6,7</entry>
+    <entry key="pdfCopyFields">txtCurrentEmployee,btnPopulateEmployees</entry>
+</properties>
